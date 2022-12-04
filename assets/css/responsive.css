@@ -1,0 +1,21 @@
+@media (max-width:600px) {
+    .btn-download {
+        visibility: unset !important;
+    }
+
+    .btn-qr {
+        visibility: hidden !important;
+        position: absolute;
+    }
+
+}
+
+
+.btn-download {
+    visibility: hidden;
+}
+
+.btn-qr {
+    visibility: unset ;
+
+}
